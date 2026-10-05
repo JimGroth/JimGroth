@@ -1,16 +1,20 @@
-## Hi there 👋
+# Jim Groth
 
-<!--
-**VanDerGroot/VanDerGroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer and system architect at **Idania AB**, based in Sweden. I’m available for remote consulting involving C#, PHP, and JavaScript—both improving existing codebases and designing and building new systems.
 
-Here are some ideas to get you started:
+Game development is my main activity at Idania AB. I’m the sole developer of [The Exalted Descendant](https://exalteddescendant.com/), a grand strategy game currently in development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected public projects
+
+- [ThinContext](https://github.com/VanDerGroot/ThinContext) — an unfinished C# experiment exploring summarised conversation context for large language models.
+- [QADAudioTester](https://github.com/VanDerGroot/QADAudioTester) — a small C# utility displaying the frequency, note name, and volume of microphone input.
+- [LegendsAndMaps](https://github.com/VanDerGroot/LegendsAndMaps) — a Blazor WebAssembly map editor with country grouping, YAML import/export, and PNG export. A personal experiment built with AI assistance.
+- [MicroCiv Shenanigans](https://github.com/VanDerGroot/microcivshenaningans) — a small C# terminal tool for browsing and restoring MicroCivilization saves, built with AI assistance.
+
+These repositories include small tools and experiments. Each project’s README describes its purpose and limitations.
+
+## Consulting
+
+My experience includes improving PHP code in Kodmyran Commerce and developing an aquaponics monitoring and control system for Agtira AB through Idania AB, where I worked with JavaScript and Vue, and led two other developers.
+
+[LinkedIn](https://www.linkedin.com/in/jim-groth-616127128/) · [Consulting enquiries](mailto:info@idania.se)
