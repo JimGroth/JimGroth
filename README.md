@@ -6,10 +6,10 @@ Game development is my main activity at Idania AB. I’m the sole developer of [
 
 ## Selected public projects
 
-- [ThinContext](https://github.com/VanDerGroot/ThinContext) — an unfinished C# experiment exploring summarised conversation context for large language models.
-- [QADAudioTester](https://github.com/VanDerGroot/QADAudioTester) — a small C# utility displaying the frequency, note name, and volume of microphone input.
-- [LegendsAndMaps](https://github.com/VanDerGroot/LegendsAndMaps) — a Blazor WebAssembly map editor with country grouping, YAML import/export, and PNG export. A personal experiment built with AI assistance.
-- [MicroCiv Shenanigans](https://github.com/VanDerGroot/microcivshenaningans) — a small C# terminal tool for browsing and restoring MicroCivilization saves, built with AI assistance.
+- [ThinContext](https://github.com/JimGroth/ThinContext) — an unfinished C# experiment exploring summarised conversation context for large language models.
+- [QADAudioTester](https://github.com/JimGroth/QADAudioTester) — a small C# utility displaying the frequency, note name, and volume of microphone input.
+- [LegendsAndMaps](https://github.com/JimGroth/LegendsAndMaps) — a Blazor WebAssembly map editor with country grouping, YAML import/export, and PNG export. A personal experiment built with AI assistance.
+- [MicroCiv Shenanigans](https://github.com/JimGroth/microcivshenaningans) — a small C# terminal tool for browsing and restoring MicroCivilization saves, built with AI assistance.
 
 These repositories include small tools and experiments. Each project’s README describes its purpose and limitations.
 
